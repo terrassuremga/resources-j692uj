@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://terrassuremga.github.io/resources-j692uj/sitemap.xml
